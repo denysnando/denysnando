@@ -1,13 +1,9 @@
 ### Hi there 👋
 
-
 I'm Denys Fernando, i'm building things with Ruby on rails.
 
 - 🌱 I’m currently learning vuejs
-- 💬 Ask me about foods, games, star wars
-- 📫 How to reach me: denysnando@gmail.com
-- ⚡ Fun fact: ...
-
+- 💬 Ask me about: foods, games, star wars, pictures, photography
 
 ### Stacks
 
