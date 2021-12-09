@@ -21,4 +21,4 @@ I'm Denys Fernando, i'm building things with Ruby on rails.
 ### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denysnando&count_private=true&hide=issues,contribs&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denysnando&layout=compact&theme=tokyonight&show_icons=true&hide=c%23,CSS,HTML,coffeescript,shell,dockerfile,scss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denysnando&layout=compact&theme=tokyonight&show_icons=true&hide=c%23,JS,CSS,HTML,coffeescript,shell,dockerfile,scss)](https://github.com/anuraghazra/github-readme-stats)
