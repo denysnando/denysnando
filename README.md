@@ -2,7 +2,7 @@
 
 I'm Denys Fernando, i'm building things with Ruby on rails.
 
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning react
 - 💬 Ask me about: foods, games, star wars, pictures, photography
 
 ### Stacks
