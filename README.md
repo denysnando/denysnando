@@ -21,5 +21,5 @@ I'm Denys Fernando, i'm building things with Ruby on rails.
 ### Status
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denysnando&layout=compact&theme=tokyonight&show_icons=true&hide=c%23,CSS,HTML,coffeescript,shell,dockerfile,scss)](https://github.com/anuraghazra/github-readme-stats" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=denysnando&layout=compact&theme=tokyonight&show_icons=true&hide=c%23,CSS,HTML,coffeescript,shell,dockerfile,scss)](https://github.com/anuraghazra/github-readme-stats" />
 </div>
