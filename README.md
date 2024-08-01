@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm Denys Fernando, i'm building things with Ruby on rails.
+I'm Denys Fernando, I'm building things with Ruby on Rails, vue, and react.
 
-- 🌱 I’m currently learning react
 - 💬 Ask me about: foods, games, star wars, pictures, photography
 
 ### Stacks
